@@ -153,7 +153,7 @@ const projects = [
     ],
     code: "https://github.com/AditiGupta-tech/neonest",
     demo: "https://youtu.be/YGtAwGaNsEE",
-    live: "https://neonest-henna.vercel.app/",
+    live: "https://neonest-babycare.vercel.app/",
     screenshots: ["/Neo/1.png", "/Neo/2.png", "/Neo/3.png", "/Neo/4.png", "/Neo/5.png", "/Neo/6.png", 
       "/Neo/7.png", "/Neo/8.png", "/Neo/9.png", "/Neo/10.png", "/Neo/11.png", "/Neo/12.png", "/Neo/13.png", "/Neo/14.png", "/Neo/15.png", 
       "/Neo/16.png", "/Neo/17.png", "/Neo/18.png", "/Neo/19.png", "/Neo/20.png", "/Neo/21.png",],
